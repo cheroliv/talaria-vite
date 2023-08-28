@@ -1,3 +1,4 @@
+[#toc]
 = Talaria
 
 . Cursus
@@ -8,3 +9,4 @@
 .. Cours
 .. organisation github
 
+== link:site/site.adoc#site[site] 
