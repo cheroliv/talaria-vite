@@ -1,0 +1,4 @@
+[#learning]
+= Formateur numérique
+
+link:../README.adoc#toc[acceuil]

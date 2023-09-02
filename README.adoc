@@ -9,4 +9,8 @@
 .. Cours
 .. organisation github
 
-== link:site/site.adoc#site[site] 
+
+== Documentation et sources
+
+. link:site/site.adoc#site[site] 
+. link:formateur_numerique/formateur_numerique.adoc#learning[Formateur numérique]
