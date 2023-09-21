@@ -9,8 +9,15 @@
 .. Cours
 .. organisation github
 
-
 == Documentation et sources
 
+=== Métier
 . link:site/site.adoc#site[site] 
 . link:formateur_numerique/formateur_numerique.adoc#learning[Formateur numérique]
+
+=== infra
+==== Dock, Stack & Launch : Déploiement d'Odoo avec Docker et Portainer
+link:https://www.digitalocean.com/community/tutorials/how-to-install-odoo-on-ubuntu-20-04-with-docker[odoo et docker]
+
+link:https://jortdevreeze.com/blog/odoo-2/dock-stack-launch-odoo-deployment-with-docker-and-portainer-4[odoo et portainers]
+
